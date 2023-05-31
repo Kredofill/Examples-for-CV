@@ -1,6 +1,7 @@
-# Examples-for-CV
-<h1 align="center">Hi 👋, I'm Mitya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Dmitriy</h1>
+<h3 align="center">Manual QA Engineer from Ukraine</h3>
+
+- 🤝 I’m looking a job opportunity **as QA Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
