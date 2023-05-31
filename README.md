@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dmitriy</h1>
 <h3 align="center">Manual QA Engineer from Ukraine</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kredofill&label=Profile%20views&color=0e75b6&style=flat" alt="kredofill" /> </p>
+
 - 🤝 I’m looking a job opportunity **as QA Engineer**
 
 - ⚡ **I finished the QA courses (manual testing) held by Vadim Ksendzov, and self-studied. Also, I was practicing in commercial based projects withing 4 months. During the practice I learned a variety of different tools, methods of WEB and mobile application testing as well as testing theory.**
